@@ -1,0 +1,81 @@
+body {
+  font-family: "Serif", serif;
+}
+
+img {
+  height: 230px;
+  width: 200px;
+  padding-bottom: 10px;
+}
+
+#container{
+  width: 800px;
+  margin: 0 auto;
+}
+
+.header{
+  background-color: #F55536;
+  height: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  font-size: 30;
+  color: #593220;
+  background-image: url(soft-pastel-pink-marble-textures-plain.jpg);
+  background-size: cover;
+  background-repeat: repeat;
+  
+}
+
+.aside{
+  background-color: #fce5e5;
+  width: 30%;
+  float: left;
+  height: 400px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  box-sizing: border-box;
+  margin: auto;
+  color: saddlebrown;
+  background-size: cover;
+}
+
+.main{
+  background-color: #fce5e5;
+  width: 70%;
+  height: 400px;
+  float: right;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  box-sizing: border-box;
+  font-size: 20;
+  color: #593220;
+  background-size: cover;
+  
+}
+
+.footer{
+  background-color: #F55536;
+  clear: both;
+  height: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+  font-size: 18;
+  color: #593220;
+  background-image: url(soft-pastel-pink-marble-textures-plain.jpg);
+  background-size: cover;
+  background-repeat: repeat;
+  
+}
+
