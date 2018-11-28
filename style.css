@@ -10,6 +10,10 @@ img {
   padding-bottom: 10px;
 }
 
+.img:hover{
+  border-radius: 50%;
+}
+
 #container{
   width: 800px;
   margin: 0 auto;
