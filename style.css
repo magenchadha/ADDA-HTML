@@ -15,12 +15,12 @@ img {
   margin: 0 auto;
 }
 
-container:hover{
-  opacity: 0.5;
+.container:hover{
+  opacity: 1;
 }
 
 .container{
-  opacity: 1;
+  opacity: 0.5;
 }
 
 .header{
